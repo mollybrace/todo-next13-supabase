@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy eggs"
+    },
+    {
+      "id": "2",
+      "text": "go for a walk"
+    },
+    {
+      "id": "3",
+      "text": "Do yoga"
+    },
+    {
+      "id": "4",
+      "text": "yoga"
+    },
+    {
+      "id": "5",
+      "text": "hello"
+    },
+    {
+      "id": "5a6ac4c6-c45a-4781-8be4-b40f25cfd8b2",
+      "text": "add task"
+    }
+  ]
+}
